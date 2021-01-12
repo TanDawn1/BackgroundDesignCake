@@ -1,35 +1,98 @@
 # JavaCake
-Java后端学习总结
+Java后端知识总结
 目录(善用Ctrl+F)
 ---
 - Java基础
-- 算法
-- 数据结构
-- 数据库MySQL
-- Redis
 - JVM
+- 数据结构及算法
+- MySQL
+- Redis
 - 设计模式
-- 网络
+- 计算机网络
 - 操作系统
 - 框架与中间件
 
 Java基础
 ---
 
-算法
+- 集合
+  - List
+  - Set
+  - Map
+  - lterator
+  - 线程安全的集合
+- 多线程
+  - Thread API
+  - synchronized
+  - Reetrentlock
+  - valotile
+  - 线程池
+  - ThreadLock与
+- 其他
+  - String、StringBuilder、StringBuffer
+  - finally、final、finalize
+  - equals和==
+
+JVM
+---
+  
+参考书本 《深入理解Java虚拟机-周志明》
+
+- Java内存区域
+
+- 类加载
+
+- 对象创建过程
+
+- 垃圾回收机制
+
+数据结构及算法
 ---
 
-数据结构
----
 
-数据库MySQL
+MySQL
 ---
+MySQL学习推荐看《从根上理解MySQL》
+
+- [InnoDB的B+树索引(需要清楚数据页结构)](http://note.youdao.com/noteshare?id=c1ab299c970454610ff6f4f8539ca6fd&sub=8B2B21390E0E48AD8585B83A81FDA171)
+
+- [InnoDB中各种索引](https://blog.csdn.net/weixin_43871956/article/details/109788443)
+
+- [连接原理Join](http://note.youdao.com/noteshare?id=ba685563d8dc2250a5dac9c9f8a5b43f&sub=4054FB002C2F4D329894F20F28E76D9A)
+
+- Explain相关解析
+
+- MySQL事务
+
+- 锁
 
 Redis
 ---
 
-JVM
+参考书本 《Redis设计与实现》
+
+- Redis的基本操作
+
+- 基本数据类型的原理(SDS、List、quickList...）
+
+- 持久化及性能保障
+
+- 缓存穿透、雪崩、击穿
+
+设计模式
 ---
+
+- 单例模式
+
+- 原型模式
+
+- 工厂模式
+  - 工厂方法
+  - 抽象工厂
+
+- 代理模式
+  - JDK
+  - Cglib
 
 计算机网络
 ---
@@ -58,5 +121,23 @@ JVM
 操作系统
 ---
 
+- 内存管理
+
+- 进程管理
+
+- 文件系统管理
+
+- 输入输出设备管理
+
 框架与中间件
 ---
+
+- SpringIOC及AOP
+
+- SpringMVC
+
+- Mybatis
+
+- Nginx
+
+- RabbitMQ
