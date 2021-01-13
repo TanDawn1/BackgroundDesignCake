@@ -49,6 +49,23 @@ JVM
 数据结构及算法
 ---
 
+题目均来源于 LeetCode ，参考LeetCode英文版、中文版精品题解
+
+- [二叉树相关](http://note.youdao.com/noteshare?id=5acc43f80b3eba112bc544fbf62d0fc8&sub=84AF318114D6475988B1EBE9C4689B31)
+
+- 链表相关
+
+- 动态规划
+
+- 深搜广搜
+
+- [并查集](http://note.youdao.com/noteshare?id=aa9e76273c31b512f49ec550e910d988&sub=84610963E4E34AF580D15DFB4AE26982)
+
+- 排序相关
+
+- [双指针及滑动窗口](http://note.youdao.com/noteshare?id=a01a0edfca7bfcec4ab35d884540cdd0&sub=796CC0AB5E7445D7ACF26FB92F504CE2)
+
+- [LRU](http://note.youdao.com/noteshare?id=142928d8047bc5ef5575fff892023b97&sub=28E949704D5E4113B29135B355BA524B)
 
 MySQL
 ---
