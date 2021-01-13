@@ -77,9 +77,13 @@ MySQL学习推荐看《从根上理解MySQL》
 
 - [连接原理Join](http://note.youdao.com/noteshare?id=ba685563d8dc2250a5dac9c9f8a5b43f&sub=4054FB002C2F4D329894F20F28E76D9A)
 
-- Explain相关解析
+- [Explain主要字段](http://note.youdao.com/noteshare?id=7183761ef7ebfec7d9ef3c1a22e00035&sub=7A9BFF895FAD4858B47EAA81229F2357)
 
-- MySQL事务
+- [Buffer Pool](http://note.youdao.com/noteshare?id=095eb704511d6c4d7a036727a1a8f6fb&sub=532EDE690A81465AB3B9BDBDB0657F48)
+
+- [MySQL事务及MVCC](http://note.youdao.com/noteshare?id=9bc0f6cd0ff42ace4f40d1275a7096df&sub=A025D1792C4A401584BB6B9A3AC01E6A)
+
+- Redo日志 和 Undo日志
 
 - 锁
 
