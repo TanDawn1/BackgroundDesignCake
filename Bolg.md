@@ -142,7 +142,7 @@ Redis
 操作系统
 ---
 
-- 内存管理
+- [内存管理](http://note.youdao.com/noteshare?id=911d274e64fdf966f941bae7a5c27ac5&sub=897C1A7020174E69A2771587C88F01B9)
 
 - 进程管理
 
