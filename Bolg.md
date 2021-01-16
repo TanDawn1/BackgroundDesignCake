@@ -53,7 +53,7 @@ JVM
 
 - [二叉树相关](http://note.youdao.com/noteshare?id=5acc43f80b3eba112bc544fbf62d0fc8&sub=84AF318114D6475988B1EBE9C4689B31)
 
-- 链表相关
+- [链表相关](http://note.youdao.com/noteshare?id=4d33db9918200566ff5cc371df5e0613&sub=FE5287D0056749A1B11BF5D3AAF8F941)
 
 - 动态规划
 
