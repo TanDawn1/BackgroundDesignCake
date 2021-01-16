@@ -142,6 +142,9 @@ Redis
 操作系统
 ---
 
+推荐看wx公众号——小林Coding  操作系统教科书
+
+
 - [内存管理](http://note.youdao.com/noteshare?id=911d274e64fdf966f941bae7a5c27ac5&sub=897C1A7020174E69A2771587C88F01B9)
 
 - 进线程管理
