@@ -27,7 +27,7 @@ Java基础
   - Reetrentlock
   - valotile
   - 线程池
-  - ThreadLock与
+  - ThreadLocal
 - 其他
   - String、StringBuilder、StringBuffer
   - finally、final、finalize
