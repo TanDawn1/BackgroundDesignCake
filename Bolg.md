@@ -61,7 +61,7 @@ JVM
 
 - [并查集](http://note.youdao.com/noteshare?id=aa9e76273c31b512f49ec550e910d988&sub=84610963E4E34AF580D15DFB4AE26982)
 
-- 排序相关
+- [排序相关](http://note.youdao.com/noteshare?id=71bcf6af60bda61fd207d0794bd0d910&sub=D344BBB25D2E4C938852EA1AEF8D23B3)
 
 - [双指针及滑动窗口](http://note.youdao.com/noteshare?id=a01a0edfca7bfcec4ab35d884540cdd0&sub=796CC0AB5E7445D7ACF26FB92F504CE2)
 
