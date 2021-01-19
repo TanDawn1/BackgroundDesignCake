@@ -83,7 +83,7 @@ MySQL学习推荐看《从根上理解MySQL》
 
 - [MySQL事务及MVCC](http://note.youdao.com/noteshare?id=9bc0f6cd0ff42ace4f40d1275a7096df&sub=A025D1792C4A401584BB6B9A3AC01E6A)
 
-- Redo日志 和 Undo日志
+- [Redo日志 和 Undo日志(了解)](http://note.youdao.com/noteshare?id=3eb6289ac2f349e3c186989fc0571df4&sub=AABD211B72DA4651B16A2DE8B2B63488)
 
 - 锁
 
