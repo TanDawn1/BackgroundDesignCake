@@ -92,7 +92,7 @@ Redis
 
 参考书本 《Redis设计与实现》
 
-- Redis的基本操作
+- [Redis的基本操作](http://note.youdao.com/noteshare?id=a52777330ee415d783c1d5c4f4fa99af&sub=404CD968E38D489885E2B009F73D8FA1)
 
 - 基本数据类型的原理(SDS、List、quickList...）
 
