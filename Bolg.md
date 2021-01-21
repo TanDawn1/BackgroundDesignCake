@@ -96,7 +96,7 @@ Redis
 
 - [基本数据类型的原理(SDS、List、quickList...)](http://note.youdao.com/noteshare?id=ba68d728d359a9710d71b16c9e7906bf&sub=6403F3FFB17D46B9AC32974CE71E44E5)
 
-- 持久化及性能保障
+- [持久化及性能保障](http://note.youdao.com/noteshare?id=46278ef69a23b8a24a302efd77f5f14c&sub=CC8EB02E5CD041EA822A5636093FC4BD)
 
 - [Redis为什么这么快](http://note.youdao.com/noteshare?id=872cf5559f7dbfaa169b98cb8b683b4b&sub=2F8F9A021DEE4F93B370E9901AD25979)
 
