@@ -100,7 +100,7 @@ Redis
 
 - [Redis为什么这么快](http://note.youdao.com/noteshare?id=872cf5559f7dbfaa169b98cb8b683b4b&sub=2F8F9A021DEE4F93B370E9901AD25979)
 
-- 缓存穿透、雪崩、击穿
+- [缓存穿透、雪崩、击穿](http://note.youdao.com/noteshare?id=b52f5db013f625e42d8e69de1f6cd3f3&sub=713D7413903043F9BAA2ABDE54E229E5)
 
 设计模式
 ---
