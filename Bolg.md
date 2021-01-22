@@ -16,9 +16,9 @@ Java基础
 ---
 
 - 集合
-  - List
-  - Set
-  - Map
+  - [List子类](http://note.youdao.com/noteshare?id=f19b1a1b1d0cc47583691b1a8cff62b1&sub=87AEAAD8C1A048EC845EF079E10267CA)
+  - Map子类
+  - Set子类
   - lterator
   - 线程安全的集合
 - 多线程
