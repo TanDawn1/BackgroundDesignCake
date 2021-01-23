@@ -149,7 +149,7 @@ Redis
 
 
 - [内存管理](http://note.youdao.com/noteshare?id=911d274e64fdf966f941bae7a5c27ac5&sub=897C1A7020174E69A2771587C88F01B9)
- - [写时复制技术](http://note.youdao.com/noteshare?id=e9fb06a522117dbb296f381e40e6ca85&sub=F7F4FAA7A6F349ACBF744002D522982B)
+  - [写时复制技术](http://note.youdao.com/noteshare?id=e9fb06a522117dbb296f381e40e6ca85&sub=F7F4FAA7A6F349ACBF744002D522982B)
 
 - 进线程管理
   - [进程](http://note.youdao.com/noteshare?id=ca51e537d59c67553f3159287969ca9a&sub=EC94DB0D3E954BFCBAB450D6944379D3)
