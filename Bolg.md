@@ -56,9 +56,11 @@ JVM
 
 - 动态规划
 
-- 深搜广搜
+- [深搜广搜](http://note.youdao.com/noteshare?id=b283e09cb0f3cb9fced81e48d7035d25&sub=39326FE2F0904471888FF3067DB9B5EF)
 
-- [并查集](http://note.youdao.com/noteshare?id=aa9e76273c31b512f49ec550e910d988&sub=84610963E4E34AF580D15DFB4AE26982)
+- 回溯
+
+- [并查集模板](http://note.youdao.com/noteshare?id=aa9e76273c31b512f49ec550e910d988&sub=84610963E4E34AF580D15DFB4AE26982)
 
 - [排序相关](http://note.youdao.com/noteshare?id=71bcf6af60bda61fd207d0794bd0d910&sub=D344BBB25D2E4C938852EA1AEF8D23B3)
 
