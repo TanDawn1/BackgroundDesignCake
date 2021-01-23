@@ -19,7 +19,7 @@ Java基础
   - [List子类](http://note.youdao.com/noteshare?id=f19b1a1b1d0cc47583691b1a8cff62b1&sub=87AEAAD8C1A048EC845EF079E10267CA)
   - [Map子类](http://note.youdao.com/noteshare?id=ce6307e614ff1e8f6735a5547844bf14&sub=246962494C1B4D0F85573E9D898A8AC3)
   - Set子类(底层就是Map，只不过Value部分的值为 new Object() 对象)
-  - 线程安全的集合
+  - [线程安全的集合](http://note.youdao.com/noteshare?id=15a2959b7ceeea386edb8d0e8bf82e7e&sub=902B0C47BB17493EB03D6AD07453C648)
 - 多线程
   - Thread API
   - synchronized
