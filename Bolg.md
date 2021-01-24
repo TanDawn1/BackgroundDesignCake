@@ -21,7 +21,7 @@ Java基础
   - Set子类(底层就是Map，只不过Value部分的值为 new Object() 对象)
   - [线程安全的集合](http://note.youdao.com/noteshare?id=15a2959b7ceeea386edb8d0e8bf82e7e&sub=902B0C47BB17493EB03D6AD07453C648)
 - 多线程
-  - Thread API
+  - [线程基本概念及相关API](http://note.youdao.com/noteshare?id=50a24de673cb13a2306b8767873dd948&sub=DA266E0674174638BCBF1A216462972F)
   - synchronized
   - Reetrentlock
   - valotile
