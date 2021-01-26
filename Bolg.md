@@ -26,7 +26,7 @@ Java基础
   - [AQS和CAS](http://note.youdao.com/noteshare?id=53b25cc87cf0fc5801de69860bfe8209&sub=339E33698D6542F6975ED886FBE796B1)
   - [valotile](http://note.youdao.com/noteshare?id=adefbb92d62f8d53607415614bdfef2f&sub=0C924E4CB65F46B5BE5321426AC2E6FA)
   - 线程池
-  - ThreadLocal
+  - [ThreadLocal](http://note.youdao.com/noteshare?id=9899c0563661deccd7a2cb75339b3ffe&sub=927743ADBE634E4F9D2C20D11CEDA3F9)
 - 其他
   - String、StringBuilder、StringBuffer
   - finally、final、finalize
@@ -53,6 +53,8 @@ JVM
 - [二叉树相关](http://note.youdao.com/noteshare?id=5acc43f80b3eba112bc544fbf62d0fc8&sub=84AF318114D6475988B1EBE9C4689B31)
 
 - [链表相关](http://note.youdao.com/noteshare?id=4d33db9918200566ff5cc371df5e0613&sub=FE5287D0056749A1B11BF5D3AAF8F941)
+
+- [前缀和](http://note.youdao.com/noteshare?id=4a36671e9d57158fa4b2f5314148708e&sub=C9534B9CD53C49A7AE63DB339F0A021B)
 
 - 动态规划
 
