@@ -25,7 +25,7 @@ Java基础
   - [synchronized 和 ReentrantLock](http://note.youdao.com/noteshare?id=397dfcefe841c48c349363324ba3bef3&sub=75FA85E7859F4413970FF663F400C822)
   - [AQS和CAS](http://note.youdao.com/noteshare?id=53b25cc87cf0fc5801de69860bfe8209&sub=339E33698D6542F6975ED886FBE796B1)
   - [valotile](http://note.youdao.com/noteshare?id=adefbb92d62f8d53607415614bdfef2f&sub=0C924E4CB65F46B5BE5321426AC2E6FA)
-  - 线程池
+  - [线程池](http://note.youdao.com/noteshare?id=4b79d967e1126beabb34c715c6b6a847&sub=E06931F8AFAC424DB279A420243DEA52)
   - [ThreadLocal](http://note.youdao.com/noteshare?id=9899c0563661deccd7a2cb75339b3ffe&sub=927743ADBE634E4F9D2C20D11CEDA3F9)
 - 其他
   - String、StringBuilder、StringBuffer
