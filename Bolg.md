@@ -28,9 +28,8 @@ Java基础
   - [线程池](http://note.youdao.com/noteshare?id=4b79d967e1126beabb34c715c6b6a847&sub=E06931F8AFAC424DB279A420243DEA52)
   - [ThreadLocal](http://note.youdao.com/noteshare?id=9899c0563661deccd7a2cb75339b3ffe&sub=927743ADBE634E4F9D2C20D11CEDA3F9)
 - 其他
-  - String、StringBuilder、StringBuffer
-  - finally、final、finalize
-  - equals和==
+  - [String、StringBuilder、StringBuffer](http://note.youdao.com/noteshare?id=87a284eaf82cfc5fb6a89ac6c15f26a3&sub=EE08EBB5430943F89D713F92F4C2C777)
+  - [finally、final、finalize](http://note.youdao.com/noteshare?id=8fb9e26886cb760549a520fbfb897b6e&sub=DC1E9E6FC0ED4FD3A4FDEF3994F11266)
 
 JVM
 ---
