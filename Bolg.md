@@ -56,7 +56,7 @@ JVM
 
 - [前缀和](http://note.youdao.com/noteshare?id=4a36671e9d57158fa4b2f5314148708e&sub=C9534B9CD53C49A7AE63DB339F0A021B)
 
-- 动态规划
+- [动态规划])(http://note.youdao.com/noteshare?id=74a3c0d6e03ae7117d5ae37342ab3d1b&sub=50958F11F8984A22A3E8130D73B3CE62)
 
 - [深搜(回溯)广搜](http://note.youdao.com/noteshare?id=b283e09cb0f3cb9fced81e48d7035d25&sub=39326FE2F0904471888FF3067DB9B5EF)
 
@@ -134,7 +134,7 @@ Redis
 
 - [TCP和UDP](http://note.youdao.com/noteshare?id=f38c2c84d14f64834955af6eff54bed0&sub=CC708637BD784363BD97C952472CA404)
 
-- TCP重传、滑动窗口、流量控制、拥塞控制
+- [TCP重传、滑动窗口、流量控制、拥塞控制](http://note.youdao.com/noteshare?id=793d30a109f82f9dfe13c7aea6c1e2f0&sub=9FF8FC98F5B04CA78D78556E44DAEF67)
 
 - [TCP三次握手详解](http://note.youdao.com/noteshare?id=feb04ab447424fd26149b41f702c9fda&sub=C0E2F5E740D349A5A465D76435043E3A)
 
