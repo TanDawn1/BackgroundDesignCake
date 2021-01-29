@@ -160,6 +160,7 @@ Redis
   - [进程间通信](http://note.youdao.com/noteshare?id=29df6e0063081c244ff3c1fff7a077e0&sub=ED3AA81B18C343DE99502C93F3C672E8)
   - [线程、协程](http://note.youdao.com/noteshare?id=dd4144292a4a23bf04e693fb94bbbb83&sub=B2E19C7510B2423BA57EAF0675DDD3C9)
   - [调度算法](http://note.youdao.com/noteshare?id=30083e84a8c61e82408adb3199f97230&sub=18CC2B7BB915446C96915814B1E2C91D)
+  - [死锁及死锁处理](http://note.youdao.com/noteshare?id=fbd767806bbc9e90d8f742b77834b833&sub=A6022EE7BEA54B18B866C1D81954C1A4)
 
 - 文件系统管理
 
