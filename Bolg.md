@@ -39,11 +39,11 @@ JVM
   
 参考书本 《深入理解Java虚拟机-周志明》
 
-- Java内存区域
+- [运行时内存区域](http://note.youdao.com/noteshare?id=ea87fb8d0901aad3fa4028dec01f85e6&sub=6DB852539776454ABFAEEA12824938D6)
 
-- 类加载
+- [类加载](http://note.youdao.com/noteshare?id=3dfba624da6b69858af7996070f9a8bf&sub=FAF814190FD74947B747AC327A4F7DA2)
 
-- 对象创建过程
+- [对象创建过程](http://note.youdao.com/noteshare?id=2bb249795bb4219f80ac64426850cb9e&sub=284A71D2083D4529B30EEBABD6FEECCF)
 
 - 垃圾回收机制
 
