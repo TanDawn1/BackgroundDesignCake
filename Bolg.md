@@ -105,6 +105,8 @@ Redis
 
 - [缓存穿透、雪崩、击穿](http://note.youdao.com/noteshare?id=b52f5db013f625e42d8e69de1f6cd3f3&sub=713D7413903043F9BAA2ABDE54E229E5)
 
+- [Redis分布式锁](http://note.youdao.com/noteshare?id=5f07ec8909ac1f3db9f5518e2ad2fd92&sub=FB651C3878BA479EAA317519542B956D)
+
 设计模式
 ---
 
