@@ -45,7 +45,7 @@ JVM
 
 - [对象创建过程](http://note.youdao.com/noteshare?id=2bb249795bb4219f80ac64426850cb9e&sub=284A71D2083D4529B30EEBABD6FEECCF)
 
-- 垃圾回收机制
+- [垃圾回收机制](http://note.youdao.com/noteshare?id=cfd36d4437b1c24671f54f4e3ad3706d&sub=D36F75175A6D4808B5FEC0AE985D64F1)
 
 数据结构及算法
 ---
