@@ -167,9 +167,11 @@ Redis
 框架与中间件
 ---
 
-- SpringIOC及AOP
+- [SpringIOC及AOP](http://note.youdao.com/noteshare?id=43c82776f9cfabb8d0f6d04702e21ac6&sub=854050B6269E48BD84109ABE5ECA227E)
 
 - SpringMVC
+
+- Spring相关面试题
 
 - Mybatis
 
