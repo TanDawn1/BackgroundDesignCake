@@ -112,13 +112,11 @@ Redis
 
 - [单例模式](http://note.youdao.com/noteshare?id=3f937267bc3184e2b630ade9cae4e0f6&sub=720C03EF1F244114B71CBC1515633373)
 
+- [代理模式](http://note.youdao.com/noteshare?id=eab271e55944180f86ddcd9aa35899c5&sub=3226573455A749BD8F6F68E553596CDE)
+
 - [原型模式](http://note.youdao.com/noteshare?id=ab8dad20d80b4eccffe6edd50655a89a&sub=4E35652F9BAD45F1A9DB142D9C591454)
 
-- 工厂模式
-  - 工厂方法
-  - 抽象工厂
-
-- [代理模式](http://note.youdao.com/noteshare?id=eab271e55944180f86ddcd9aa35899c5&sub=3226573455A749BD8F6F68E553596CDE)
+- [工厂模式](http://note.youdao.com/noteshare?id=974dc1c049c3aca81b6ee42cface1d03&sub=FE07EC3AC21A4D7685E5ACE5E36FE1CC)
 
 计算机网络
 ---
@@ -143,6 +141,8 @@ Redis
 - [TCP四次挥手详解](http://note.youdao.com/noteshare?id=8ebb2e93ce54000e545b12955b579c0c&sub=3C0FF111D46843C2A3E1C064530C15C8)
 
 - [TCP传输数据的性能提升](http://note.youdao.com/noteshare?id=c160f645697336cfe0c017619328baeb&sub=D72253BCBD6846E3828BBFC9F761921F)
+
+- TCP粘包及相关问题
 
 操作系统
 ---
