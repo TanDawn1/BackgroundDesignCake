@@ -110,17 +110,15 @@ Redis
 设计模式
 ---
 
-- 单例模式
+- [单例模式](http://note.youdao.com/noteshare?id=3f937267bc3184e2b630ade9cae4e0f6&sub=720C03EF1F244114B71CBC1515633373)
 
-- 原型模式
+- [原型模式](http://note.youdao.com/noteshare?id=ab8dad20d80b4eccffe6edd50655a89a&sub=4E35652F9BAD45F1A9DB142D9C591454)
 
 - 工厂模式
   - 工厂方法
   - 抽象工厂
 
-- 代理模式
-  - JDK
-  - Cglib
+- [代理模式](http://note.youdao.com/noteshare?id=eab271e55944180f86ddcd9aa35899c5&sub=3226573455A749BD8F6F68E553596CDE)
 
 计算机网络
 ---
