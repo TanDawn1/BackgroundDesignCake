@@ -142,6 +142,8 @@ Redis
 
 - [TCP传输数据的性能提升](http://note.youdao.com/noteshare?id=c160f645697336cfe0c017619328baeb&sub=D72253BCBD6846E3828BBFC9F761921F)
 
+- [TCP面向字节流及UDP面向报文](http://note.youdao.com/noteshare?id=99d8f86bd9cc7218a9bf428cc594a058&sub=9B1CF61528764263BE2F045CF678C80B)
+
 操作系统
 ---
 
