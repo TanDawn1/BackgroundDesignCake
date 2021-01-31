@@ -142,8 +142,6 @@ Redis
 
 - [TCP传输数据的性能提升](http://note.youdao.com/noteshare?id=c160f645697336cfe0c017619328baeb&sub=D72253BCBD6846E3828BBFC9F761921F)
 
-- TCP粘包及相关问题
-
 操作系统
 ---
 
