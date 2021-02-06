@@ -18,6 +18,7 @@ Java基础
 - 集合
   - [List子类](http://note.youdao.com/noteshare?id=f19b1a1b1d0cc47583691b1a8cff62b1&sub=87AEAAD8C1A048EC845EF079E10267CA)
   - [Map子类](http://note.youdao.com/noteshare?id=ce6307e614ff1e8f6735a5547844bf14&sub=246962494C1B4D0F85573E9D898A8AC3)
+  - [红黑树与平衡二叉树](http://note.youdao.com/noteshare?id=f47a338b40a7e0250abb89fea1791939&sub=C7C8B62509A840B9853C74C2B4AADF68)
   - Set子类(底层就是Map，只不过Value部分的值为 new Object() 对象)
   - [线程安全的集合](http://note.youdao.com/noteshare?id=15a2959b7ceeea386edb8d0e8bf82e7e&sub=902B0C47BB17493EB03D6AD07453C648)
 - 多线程
@@ -89,6 +90,8 @@ MySQL学习推荐看《从根上理解MySQL》
 - [Redo日志 和 Undo日志(了解)](http://note.youdao.com/noteshare?id=3eb6289ac2f349e3c186989fc0571df4&sub=AABD211B72DA4651B16A2DE8B2B63488)
 
 - [锁](http://note.youdao.com/noteshare?id=9c447fa17f8681a00b0d423fb2917c65&sub=DD91F3D9F47C48968E460CE073ABC981)
+
+- [B树和B+树](http://note.youdao.com/noteshare?id=e03c2e316dfb0bcc64781fe831d1f9f9&sub=DA6968A28DFF4FE0AAE82F34C51F338C)
 
 Redis
 ---
