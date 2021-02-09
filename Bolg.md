@@ -31,9 +31,9 @@ Java基础
 - 其他
   - [String、StringBuilder、StringBuffer](http://note.youdao.com/noteshare?id=87a284eaf82cfc5fb6a89ac6c15f26a3&sub=EE08EBB5430943F89D713F92F4C2C777)
   - [finally、final、finalize](http://note.youdao.com/noteshare?id=8fb9e26886cb760549a520fbfb897b6e&sub=DC1E9E6FC0ED4FD3A4FDEF3994F11266)
-  - 泛型
-  - IO与序列化
-  - 其他
+  - [泛型](http://note.youdao.com/noteshare?id=798e92ae0ac22bf88bfb30ee22af55be&sub=D8751235BD1F47F6A07FFF10CCBB68D5)
+  - [IO](http://note.youdao.com/noteshare?id=a6fa8933c5909614ae99e60cf032dcd7&sub=706E283A3F9046EAA1E0878D4F86076D)
+  - [其他](http://note.youdao.com/noteshare?id=5d10a449dc0a917c1237771ad0ed6420&sub=WEB371c147fc86496c33e09cbd588cc720b)
 
 JVM
 ---
