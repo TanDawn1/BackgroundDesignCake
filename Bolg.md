@@ -166,12 +166,10 @@ Redis
   - [线程、协程](http://note.youdao.com/noteshare?id=dd4144292a4a23bf04e693fb94bbbb83&sub=B2E19C7510B2423BA57EAF0675DDD3C9)
   - [调度算法](http://note.youdao.com/noteshare?id=30083e84a8c61e82408adb3199f97230&sub=18CC2B7BB915446C96915814B1E2C91D)
   - [死锁及死锁处理](http://note.youdao.com/noteshare?id=fbd767806bbc9e90d8f742b77834b833&sub=A6022EE7BEA54B18B866C1D81954C1A4)
+  
+- [输入输出设备管理](http://note.youdao.com/noteshare?id=813b27d7660e5a40211a023b15920002&sub=B8ECC5823A4341AABAE4D4F28523C462)
 
 - [其他](http://note.youdao.com/noteshare?id=bd3915f99705133d37408936712777c7&sub=D0FBC47B293747438A5623B782B79CE3) 
-
-- 文件系统管理
-
-- 输入输出设备管理
 
 框架与中间件
 ---
