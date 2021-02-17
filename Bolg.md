@@ -93,6 +93,8 @@ MySQL学习推荐看《从根上理解MySQL》
 
 - [B树和B+树](http://note.youdao.com/noteshare?id=e03c2e316dfb0bcc64781fe831d1f9f9&sub=DA6968A28DFF4FE0AAE82F34C51F338C)
 
+- [慢查询相关](http://note.youdao.com/noteshare?id=0a4a4b6560385bc5e0a46bfd540b9e27&sub=87BC4AF34A6641A190F96F77B26549AF)
+
 Redis
 ---
 
