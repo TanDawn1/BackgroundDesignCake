@@ -186,6 +186,8 @@ Redis
 
 - [SpringBoot](http://note.youdao.com/noteshare?id=9dbf7fe1fcdb3108ade024f7e6812bde&sub=163EF6A1B4D14CFA9CF93EF17DEB5986)
 
+- [Netty](http://note.youdao.com/noteshare?id=2a96a446dbce8a4c97fb2b8aed107e35&sub=B11B5423EC4E42D9B89FE5D078FBBCDA)
+
 - Mybatis
 
 - Nginx
