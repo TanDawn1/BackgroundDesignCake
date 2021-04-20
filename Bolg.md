@@ -113,6 +113,8 @@ Redis
 
 - [Redis分布式锁](http://note.youdao.com/noteshare?id=5f07ec8909ac1f3db9f5518e2ad2fd92&sub=FB651C3878BA479EAA317519542B956D)
 
+- [缓存一致性问题集合](http://note.youdao.com/noteshare?id=809ae0072f4b5fe76ee25bc594e11edc&sub=F8578BA9587947AC8A9D88EA8C82AB86)
+
 - [淘汰策略](http://note.youdao.com/noteshare?id=bfde5b17dcaa03e6aa45d71dc81f4c84&sub=01A29709DF8E4E1DA51033C89B65C03A)
 
 设计模式
