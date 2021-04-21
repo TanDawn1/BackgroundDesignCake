@@ -103,7 +103,7 @@ Redis
 
 - [Redis的基本操作](http://note.youdao.com/noteshare?id=a52777330ee415d783c1d5c4f4fa99af&sub=404CD968E38D489885E2B009F73D8FA1)
 
-- [基本数据类型的原理(SDS、List、quickList...)](http://note.youdao.com/noteshare?id=ba68d728d359a9710d71b16c9e7906bf&sub=6403F3FFB17D46B9AC32974CE71E44E5)
+- [基本数据类型的原理(SDS、List、quickList...)](http://note.youdao.com/noteshare?id=5a6978ffd508e94444e1867c8730297c&sub=4F2CCE3B0B724EDDA84230D1B5D5D4A9)
 
 - [持久化及性能保障](http://note.youdao.com/noteshare?id=46278ef69a23b8a24a302efd77f5f14c&sub=CC8EB02E5CD041EA822A5636093FC4BD)
 
