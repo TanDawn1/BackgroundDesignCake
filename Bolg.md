@@ -180,6 +180,8 @@ Redis
 
 - [其他](http://note.youdao.com/noteshare?id=bd3915f99705133d37408936712777c7&sub=D0FBC47B293747438A5623B782B79CE3) 
 
+- [Reactor 和 Proactor](http://note.youdao.com/noteshare?id=33915258ed94a6896670c7a838d6531a&sub=0A30ED3A2FEB4FAD8D13B77FEF3FCF6C)
+
 框架与中间件
 ---
 
