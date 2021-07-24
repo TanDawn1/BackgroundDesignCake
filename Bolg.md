@@ -204,6 +204,6 @@ Redis
 后端其他
 ---
 
--[一致性Hash原理](http://note.youdao.com/noteshare?id=1f6202c01ec269a8bb9ee191e99eea9d&sub=0E87A1B3D9ED49A0B739126267F1A28B)
+- [一致性Hash原理](http://note.youdao.com/noteshare?id=1f6202c01ec269a8bb9ee191e99eea9d&sub=0E87A1B3D9ED49A0B739126267F1A28B)
 
--[RedLock有趣的讨论](http://note.youdao.com/noteshare?id=f6a1335b3694b071c127d993776abac7&sub=2EA3D049D911473EB07D0A38113E2199)
+- [RedLock有趣的讨论](http://note.youdao.com/noteshare?id=f6a1335b3694b071c127d993776abac7&sub=2EA3D049D911473EB07D0A38113E2199)
