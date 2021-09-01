@@ -160,6 +160,8 @@ Redis
 
 - [网络IO的发展](http://note.youdao.com/noteshare?id=59529011eff2c35da455b440e4fa69f9&sub=972F1ACE09F744AFB8D0256FE6134F80)
 
+- [队头阻塞专题](http://note.youdao.com/noteshare?id=7206f29992cb1dfebaf1f2f352e61aaa&sub=3354E9B97EBE44F690328A7B321A89BE)
+
 操作系统
 ---
 
