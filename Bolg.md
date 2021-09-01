@@ -117,6 +117,10 @@ Redis
 
 - [淘汰策略](http://note.youdao.com/noteshare?id=bfde5b17dcaa03e6aa45d71dc81f4c84&sub=01A29709DF8E4E1DA51033C89B65C03A)
 
+- 主从复制
+
+- 集群相关
+
 设计模式
 ---
 
