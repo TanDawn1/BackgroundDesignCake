@@ -25,9 +25,10 @@ Java基础
   - [线程基本概念及相关API](http://note.youdao.com/noteshare?id=50a24de673cb13a2306b8767873dd948&sub=DA266E0674174638BCBF1A216462972F)
   - [synchronized 和 ReentrantLock](http://note.youdao.com/noteshare?id=397dfcefe841c48c349363324ba3bef3&sub=75FA85E7859F4413970FF663F400C822)
   - [AQS和CAS](http://note.youdao.com/noteshare?id=53b25cc87cf0fc5801de69860bfe8209&sub=339E33698D6542F6975ED886FBE796B1)
-  - [valotile](http://note.youdao.com/noteshare?id=adefbb92d62f8d53607415614bdfef2f&sub=0C924E4CB65F46B5BE5321426AC2E6FA)
+  - [valotile(需要前置知识：内存屏障、缓存一致性协议)](http://note.youdao.com/noteshare?id=adefbb92d62f8d53607415614bdfef2f&sub=0C924E4CB65F46B5BE5321426AC2E6FA)
   - [线程池](http://note.youdao.com/noteshare?id=4b79d967e1126beabb34c715c6b6a847&sub=E06931F8AFAC424DB279A420243DEA52)
   - [ThreadLocal](http://note.youdao.com/noteshare?id=9899c0563661deccd7a2cb75339b3ffe&sub=927743ADBE634E4F9D2C20D11CEDA3F9)
+  - JMM
 - 其他
   - [String、StringBuilder、StringBuffer](http://note.youdao.com/noteshare?id=87a284eaf82cfc5fb6a89ac6c15f26a3&sub=EE08EBB5430943F89D713F92F4C2C777)
   - [finally、final、finalize](http://note.youdao.com/noteshare?id=8fb9e26886cb760549a520fbfb897b6e&sub=DC1E9E6FC0ED4FD3A4FDEF3994F11266)
@@ -180,6 +181,7 @@ Redis
 - 进线程管理
   - [进程](http://note.youdao.com/noteshare?id=ca51e537d59c67553f3159287969ca9a&sub=EC94DB0D3E954BFCBAB450D6944379D3)
   - [进程间通信](http://note.youdao.com/noteshare?id=29df6e0063081c244ff3c1fff7a077e0&sub=ED3AA81B18C343DE99502C93F3C672E8)
+  - [线程间通信 以Java和Golang为例]
   - [线程、协程](http://note.youdao.com/noteshare?id=dd4144292a4a23bf04e693fb94bbbb83&sub=B2E19C7510B2423BA57EAF0675DDD3C9)
   - [调度算法](http://note.youdao.com/noteshare?id=30083e84a8c61e82408adb3199f97230&sub=18CC2B7BB915446C96915814B1E2C91D)
   - [死锁及死锁处理](http://note.youdao.com/noteshare?id=fbd767806bbc9e90d8f742b77834b833&sub=A6022EE7BEA54B18B866C1D81954C1A4)
