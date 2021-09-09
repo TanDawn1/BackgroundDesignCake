@@ -126,7 +126,7 @@ Redis
 
 - [集群相关](http://note.youdao.com/noteshare?id=751a16189885ad9ca2f9ebd5ce8dbd0f&sub=E69640F0C67E45BCB3925CE53C4C6753)
 
-- 高并发情况下 单机Redis性能瓶颈
+- [Redis延迟高专题](http://note.youdao.com/noteshare?id=0ab2d0e1d766609decd19dd5c796ebc7&sub=D8CC93C603164747BAB0BC24D956EA5D)
 
 设计模式
 ---
