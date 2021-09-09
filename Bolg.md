@@ -124,7 +124,7 @@ Redis
 
 - 主从复制
 
-- 集群相关
+- [集群相关](http://note.youdao.com/noteshare?id=751a16189885ad9ca2f9ebd5ce8dbd0f&sub=E69640F0C67E45BCB3925CE53C4C6753)
 
 - 高并发情况下 单机Redis性能瓶颈
 
