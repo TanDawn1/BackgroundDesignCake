@@ -216,6 +216,10 @@ Redis
 
 - RabbitMQ
 
+- Kafka
+
+- Zookeeper
+
 后端其他
 ---
 
