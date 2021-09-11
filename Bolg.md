@@ -21,14 +21,6 @@ Java基础
   - [红黑树与平衡二叉树](http://note.youdao.com/noteshare?id=f47a338b40a7e0250abb89fea1791939&sub=C7C8B62509A840B9853C74C2B4AADF68)
   - Set子类(底层就是Map，只不过Value部分的值为 new Object() 对象)
   - [线程安全的集合](http://note.youdao.com/noteshare?id=15a2959b7ceeea386edb8d0e8bf82e7e&sub=902B0C47BB17493EB03D6AD07453C648)
-- 多线程
-  - [线程基本概念及相关API](http://note.youdao.com/noteshare?id=50a24de673cb13a2306b8767873dd948&sub=DA266E0674174638BCBF1A216462972F)
-  - [synchronized 和 ReentrantLock](http://note.youdao.com/noteshare?id=397dfcefe841c48c349363324ba3bef3&sub=75FA85E7859F4413970FF663F400C822)
-  - [AQS和CAS](http://note.youdao.com/noteshare?id=53b25cc87cf0fc5801de69860bfe8209&sub=339E33698D6542F6975ED886FBE796B1)
-  - [valotile(需要前置知识：内存屏障、缓存一致性协议)](http://note.youdao.com/noteshare?id=adefbb92d62f8d53607415614bdfef2f&sub=0C924E4CB65F46B5BE5321426AC2E6FA)
-  - [线程池](http://note.youdao.com/noteshare?id=4b79d967e1126beabb34c715c6b6a847&sub=E06931F8AFAC424DB279A420243DEA52)
-  - [ThreadLocal](http://note.youdao.com/noteshare?id=9899c0563661deccd7a2cb75339b3ffe&sub=927743ADBE634E4F9D2C20D11CEDA3F9)
-  - [Java内存模型](http://note.youdao.com/noteshare?id=0418b539d2316384425726bb5eab6dc9&sub=BA48EAB3DDC241518751A7F4996F72C1)
 - 其他
   - [String、StringBuilder、StringBuffer](http://note.youdao.com/noteshare?id=87a284eaf82cfc5fb6a89ac6c15f26a3&sub=EE08EBB5430943F89D713F92F4C2C777)
   - [finally、final、finalize](http://note.youdao.com/noteshare?id=8fb9e26886cb760549a520fbfb897b6e&sub=DC1E9E6FC0ED4FD3A4FDEF3994F11266)
@@ -36,6 +28,15 @@ Java基础
   - [IO](http://note.youdao.com/noteshare?id=a6fa8933c5909614ae99e60cf032dcd7&sub=706E283A3F9046EAA1E0878D4F86076D)
   - [序列化方式](http://note.youdao.com/noteshare?id=cda176263eddc57deca4e3815a2a2778&sub=E0DEE271E2BF470F8F2F5386C6D24EE8)
   - [其他](http://note.youdao.com/noteshare?id=5d10a449dc0a917c1237771ad0ed6420&sub=WEB371c147fc86496c33e09cbd588cc720b)
+- 并发编程
+参考 Doug Lea 《Java并发编程实战》 和 方腾飞 《Java并发编程的艺术》
+  - [线程基本概念及相关API](http://note.youdao.com/noteshare?id=50a24de673cb13a2306b8767873dd948&sub=DA266E0674174638BCBF1A216462972F)
+  - [synchronized 和 ReentrantLock](http://note.youdao.com/noteshare?id=397dfcefe841c48c349363324ba3bef3&sub=75FA85E7859F4413970FF663F400C822)
+  - [AQS和CAS](http://note.youdao.com/noteshare?id=53b25cc87cf0fc5801de69860bfe8209&sub=339E33698D6542F6975ED886FBE796B1)
+  - [valotile(需要前置知识：内存屏障、缓存一致性协议)](http://note.youdao.com/noteshare?id=adefbb92d62f8d53607415614bdfef2f&sub=0C924E4CB65F46B5BE5321426AC2E6FA)
+  - [线程池](http://note.youdao.com/noteshare?id=4b79d967e1126beabb34c715c6b6a847&sub=E06931F8AFAC424DB279A420243DEA52)
+  - [ThreadLocal](http://note.youdao.com/noteshare?id=9899c0563661deccd7a2cb75339b3ffe&sub=927743ADBE634E4F9D2C20D11CEDA3F9)
+  - [Java内存模型](http://note.youdao.com/noteshare?id=0418b539d2316384425726bb5eab6dc9&sub=BA48EAB3DDC241518751A7F4996F72C1)
 
 JVM
 ---
