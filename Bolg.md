@@ -36,6 +36,7 @@ Java基础
   - [线程池](http://note.youdao.com/noteshare?id=4b79d967e1126beabb34c715c6b6a847&sub=E06931F8AFAC424DB279A420243DEA52)
   - [ThreadLocal](http://note.youdao.com/noteshare?id=9899c0563661deccd7a2cb75339b3ffe&sub=927743ADBE634E4F9D2C20D11CEDA3F9)
   - [Java内存模型](http://note.youdao.com/noteshare?id=0418b539d2316384425726bb5eab6dc9&sub=BA48EAB3DDC241518751A7F4996F72C1)
+  - [CountDownLatch](http://note.youdao.com/noteshare?id=53f7e12296acc283c25ee01608df8c32&sub=132B44BA1D1346078882E96B907AA453)
 
 JVM
 ---
