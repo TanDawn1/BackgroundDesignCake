@@ -29,6 +29,7 @@ Java基础
   - [序列化方式](http://note.youdao.com/noteshare?id=cda176263eddc57deca4e3815a2a2778&sub=E0DEE271E2BF470F8F2F5386C6D24EE8)
   - [其他](http://note.youdao.com/noteshare?id=5d10a449dc0a917c1237771ad0ed6420&sub=WEB371c147fc86496c33e09cbd588cc720b)
 - 并发编程
+
 参考 Doug Lea 《Java并发编程实战》 和 方腾飞 《Java并发编程的艺术》
   - [线程基本概念及相关API](http://note.youdao.com/noteshare?id=50a24de673cb13a2306b8767873dd948&sub=DA266E0674174638BCBF1A216462972F)
   - [synchronized 和 ReentrantLock](http://note.youdao.com/noteshare?id=397dfcefe841c48c349363324ba3bef3&sub=75FA85E7859F4413970FF663F400C822)
