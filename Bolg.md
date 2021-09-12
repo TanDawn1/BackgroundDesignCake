@@ -162,6 +162,8 @@ Redis
 
 - [TCP四次挥手详解](http://note.youdao.com/noteshare?id=8ebb2e93ce54000e545b12955b579c0c&sub=3C0FF111D46843C2A3E1C064530C15C8)
 
+- [TCP的疑难杂症(持续补充)] (http://note.youdao.com/noteshare?id=4a49e822e3bdedda8fedefae2fadf085&sub=EAA3AEF769944B0CB7AE0FF90966DF45)
+
 - [TCP传输数据的性能提升](http://note.youdao.com/noteshare?id=c160f645697336cfe0c017619328baeb&sub=D72253BCBD6846E3828BBFC9F761921F)
 
 - [TCP面向字节流及UDP面向报文](http://note.youdao.com/noteshare?id=99d8f86bd9cc7218a9bf428cc594a058&sub=9B1CF61528764263BE2F045CF678C80B)
