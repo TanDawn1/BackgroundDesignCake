@@ -198,6 +198,8 @@ Redis
   
 - [输入输出设备管理](http://note.youdao.com/noteshare?id=813b27d7660e5a40211a023b15920002&sub=B8ECC5823A4341AABAE4D4F28523C462)
 
+- [硬连接 软连接](http://note.youdao.com/noteshare?id=3b1e37dbb54cac6039181aaa66c8a8ae&sub=A3CCC11B823645C29DDED87D1E79C469)
+
 - [其他](http://note.youdao.com/noteshare?id=bd3915f99705133d37408936712777c7&sub=D0FBC47B293747438A5623B782B79CE3) 
 
 - [Reactor 和 Proactor](http://note.youdao.com/noteshare?id=33915258ed94a6896670c7a838d6531a&sub=0A30ED3A2FEB4FAD8D13B77FEF3FCF6C)
