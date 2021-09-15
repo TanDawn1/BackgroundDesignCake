@@ -102,6 +102,9 @@ MySQL学习推荐看《从根上理解MySQL》
 
 - [慢查询相关](http://note.youdao.com/noteshare?id=0a4a4b6560385bc5e0a46bfd540b9e27&sub=87BC4AF34A6641A190F96F77B26549AF)
 
+- [数据是怎么插入的](http://note.youdao.com/noteshare?id=c7a9caac23183aeb52bf33bf9c7c4b5b&sub=09F0295A4F874560A5524228F524E7AF)
+
+
 Redis
 ---
 
