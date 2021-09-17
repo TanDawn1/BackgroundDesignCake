@@ -237,6 +237,8 @@ Redis
 
 - [RedLock有趣的讨论](http://note.youdao.com/noteshare?id=f6a1335b3694b071c127d993776abac7&sub=2EA3D049D911473EB07D0A38113E2199)
 
+- [电商高并发系统的架构设计](http://note.youdao.com/noteshare?id=29f17d1a3c656eeac681399291a06189&sub=8E679729126E4381BD97BF7453FCF789)
+
 - 内存屏障及缓存一致性协议
 
 技术底蕴
