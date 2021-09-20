@@ -243,8 +243,11 @@ Redis
 
 技术底蕴
 ---
+站在巨人的肩膀上学习
 
 - Linux源码学习
+  - [源码网址](http://elixir.bootlin.com/)
+  - 网络 net/ipv4
 
 - MySQL源码学习
 
