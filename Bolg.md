@@ -245,7 +245,7 @@ Redis
 ---
 站在巨人的肩膀上学习
 
-- Linux源码学习
+- Linux源码学习 2.4.31为基准
   - [源码网址](http://elixir.bootlin.com/)
   - 网络 net/ipv4
 
