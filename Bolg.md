@@ -207,6 +207,11 @@ Redis
 
 - [Reactor 和 Proactor](http://note.youdao.com/noteshare?id=33915258ed94a6896670c7a838d6531a&sub=0A30ED3A2FEB4FAD8D13B77FEF3FCF6C)
 
+
+设计数据密集型应用
+---
+
+
 框架与中间件
 ---
 
@@ -240,6 +245,8 @@ Redis
 - [电商高并发系统的架构设计](http://note.youdao.com/noteshare?id=29f17d1a3c656eeac681399291a06189&sub=8E679729126E4381BD97BF7453FCF789)
 
 - [内容分发网络加速技术——CDN](http://note.youdao.com/noteshare?id=fd8db7958342531c0c3cfef971ab157d&sub=F9F50F510BC44567B95D457C55F7A84F)
+
+- B站弹幕架构
 
 - 内存屏障及缓存一致性协议
 
