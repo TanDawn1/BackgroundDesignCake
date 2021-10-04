@@ -210,7 +210,10 @@ Redis
 
 设计数据密集型应用
 ---
-
+学习书本 [ddia](https://github.com/Vonng/ddia)
+ - [可靠性、可伸缩性、可维护性](http://note.youdao.com/noteshare?id=165b2ca6305f13d181464065ffcb1261&sub=5780AED853DC46709F38B6D25065CEBD)
+ 
+ - [存储与检索](http://note.youdao.com/noteshare?id=f58d203fc32b867ed190a6d7421af6a2&sub=10F68FF010F7449FB348E973F3C53643)
 
 框架与中间件
 ---
