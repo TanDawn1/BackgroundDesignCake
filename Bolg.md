@@ -173,6 +173,8 @@ Redis
 
 - [TCP面向字节流及UDP面向报文](http://note.youdao.com/noteshare?id=99d8f86bd9cc7218a9bf428cc594a058&sub=9B1CF61528764263BE2F045CF678C80B)
 
+- [QUIC技术扫盲](http://note.youdao.com/noteshare?id=b667d02e47548e5d298883f9e19f2c33&sub=4D9564D6868F45F2ADE7F4EFD7DEE15F)
+
 - [应用层KeepAlive和传输层KeepAlive](http://note.youdao.com/noteshare?id=720d7699067e922a12e254d46a73d38b&sub=FF1B4EB334DD4851A7D5A5E07FD44689)
 
 - [ARP协议](http://note.youdao.com/noteshare?id=09047abe27cc49c589fd27f0764527b7&sub=F9FB9CE1CACC495993BF8B4CE214F0B4)
