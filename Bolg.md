@@ -155,6 +155,8 @@ Redis
 
 - [HTTP演变及HTTPS的握手过程](http://note.youdao.com/noteshare?id=cda67d2f122be5f0a1062c6f4c425353&sub=A24280C128354BC1A419E2E3D56FEF8A)
 
+- [HTTP2头部压缩原理](http://note.youdao.com/noteshare?id=641ff564db009944b33f91d3e64be4f6&sub=C76CF072583F451D8739F539907581AE)
+
 - [对称加密和非对称加密](http://note.youdao.com/noteshare?id=4a33f35265e8a14f46781e4731f9044d&sub=F9570F8C683E49099A91993F62D90885)
 
 - [TCP和UDP](http://note.youdao.com/noteshare?id=f38c2c84d14f64834955af6eff54bed0&sub=CC708637BD784363BD97C952472CA404)
