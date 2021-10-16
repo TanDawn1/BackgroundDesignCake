@@ -132,6 +132,8 @@ Redis
 
 - [Redis延迟高专题](http://note.youdao.com/noteshare?id=0ab2d0e1d766609decd19dd5c796ebc7&sub=D8CC93C603164747BAB0BC24D956EA5D)
 
+- [Redis相关问题专题](http://note.youdao.com/noteshare?id=81c72951242361c957a6ebf8a47acaf5&sub=86F995736C4E4F5BA3244C132A94B760)
+
 设计模式
 ---
 
