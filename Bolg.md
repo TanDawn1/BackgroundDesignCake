@@ -255,7 +255,7 @@ Redis
 
 - [内容分发网络加速技术——CDN](http://note.youdao.com/noteshare?id=fd8db7958342531c0c3cfef971ab157d&sub=F9F50F510BC44567B95D457C55F7A84F)
 
-- B站弹幕架构
+- 从0到1实现直播弹幕系统
 
 - 内存屏障及缓存一致性协议
 
