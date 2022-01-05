@@ -4,7 +4,7 @@
 ---
 - Java基础
 - JVM
-- Golang基础
+- Golang开发相关
 - 数据结构及算法
 - MySQL
 - Redis
