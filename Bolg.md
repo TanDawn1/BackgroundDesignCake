@@ -122,6 +122,9 @@ MySQL学习推荐看《从根上理解MySQL》
 
 - [数据是怎么插入的](http://note.youdao.com/noteshare?id=c7a9caac23183aeb52bf33bf9c7c4b5b&sub=09F0295A4F874560A5524228F524E7AF)
 
+- InnoDB关键特性之double write
+  [参考](https://www.cnblogs.com/geaozhang/p/7241744.html)
+
 
 Redis
 ---
