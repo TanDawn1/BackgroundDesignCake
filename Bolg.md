@@ -59,10 +59,18 @@ JVM
 
 - [Full GC处理专题](http://note.youdao.com/noteshare?id=7f8bdbae9b6b68ce82dbca21f43a813a&sub=98FA0B68B8164BFF8972A4458406A97D)
 
-Golang基础
+Golang开发相关
 ---
 
-- 
+- GMP调度模型
+
+- 单核并发
+
+- 多核并行
+
+- 协程泄漏
+
+- 数据竞争
 
 数据结构及算法
 ---
@@ -196,10 +204,12 @@ Redis
 
 - [队头阻塞专题](http://note.youdao.com/noteshare?id=7206f29992cb1dfebaf1f2f352e61aaa&sub=3354E9B97EBE44F690328A7B321A89BE)
 
+- 直播SRT及RTMP推流协议
+
 操作系统
 ---
 
-推荐看wx公众号——小林Coding  操作系统教科书
+推荐看wx公众号——小林Coding  操作系统第9版
 
 
 - [内存管理](http://note.youdao.com/noteshare?id=911d274e64fdf966f941bae7a5c27ac5&sub=897C1A7020174E69A2771587C88F01B9)
@@ -230,6 +240,21 @@ Redis
  
  - [存储与检索](http://note.youdao.com/noteshare?id=f58d203fc32b867ed190a6d7421af6a2&sub=10F68FF010F7449FB348E973F3C53643)
 
+ - 复制与分区
+
+ - 分布式系统的麻烦
+
+ - 一致性与共识
+
+ - 数据库分拆
+ 
+领域驱动设计
+---
+[ddd](https://github.com/TanDawn1/Domain-Driven-Design-zh)
+
+- 绑定模型及实现
+
+
 框架与中间件
 ---
 
@@ -243,13 +268,9 @@ Redis
 
 - [Netty](http://note.youdao.com/noteshare?id=2a96a446dbce8a4c97fb2b8aed107e35&sub=B11B5423EC4E42D9B89FE5D078FBBCDA)
 
-- Mybatis
-
 - Nginx
 
-- RabbitMQ
-
-- Kafka
+- MQ消息队列
 
 - Zookeeper
 
@@ -258,19 +279,25 @@ Redis
 
 - [一致性Hash原理](http://note.youdao.com/noteshare?id=1f6202c01ec269a8bb9ee191e99eea9d&sub=0E87A1B3D9ED49A0B739126267F1A28B)
 
+- 内存屏障及缓存一致性协议
+
 - [RedLock有趣的讨论](http://note.youdao.com/noteshare?id=f6a1335b3694b071c127d993776abac7&sub=2EA3D049D911473EB07D0A38113E2199)
 
 - [电商高并发系统的架构设计](http://note.youdao.com/noteshare?id=29f17d1a3c656eeac681399291a06189&sub=8E679729126E4381BD97BF7453FCF789)
 
 - [内容分发网络加速技术——CDN](http://note.youdao.com/noteshare?id=fd8db7958342531c0c3cfef971ab157d&sub=F9F50F510BC44567B95D457C55F7A84F)
 
+- WebRTC 低延时音视频技术
+
 - 从0到1实现直播弹幕系统
 
-- 内存屏障及缓存一致性协议
+- WebSocket支持百万级长连接的实践
+
 
 技术底蕴
 ---
 站在巨人的肩膀上学习
+随缘看了...
 
 - Linux源码学习 2.4.31为基准
   - [源码网址](http://elixir.bootlin.com/)
@@ -281,3 +308,5 @@ Redis
 - Redis源码学习
 
 - Raft源码学习
+
+- MediaSoup源码学习
